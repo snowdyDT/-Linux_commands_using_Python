@@ -1,0 +1,13 @@
+.idea
+venv/
+dist/
+node_modules
+__pycache__/
+build/
+*.egg-info/
+.pytest_cache
+builds/
+build
+out/
+files/
+.DS_Store
